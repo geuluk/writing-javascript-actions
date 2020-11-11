@@ -1,4 +1,3 @@
-.github/actions/hello-world/main.js
 const core = require("@actions/core");
 
 const firstGreeting = core.getInput("first-greeting");
